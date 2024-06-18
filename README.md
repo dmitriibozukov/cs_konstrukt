@@ -1,6 +1,6 @@
 # Конструктор ботов для проведения игровых тренировок в игре Counter-Strike
  
-<img height="200" src="gif.gif"><img height="200" src="gif.gif">
+<img height="400" src="gif.gif">
 
 ## Contents
 
