@@ -2,17 +2,6 @@
  
 <img height="400" src="gif.gif">
 
-## Содержание
-
-1. [Code Overview](#code-overview)
-2. [Trained Models](#trained-models)
-3. [Datasets](#datasets)
-4. [Requirements](#requirements)
-5. [License](#license)
-6. [Disclaimer](#disclaimer)
-7. [Maintenance](#maintenance)
-8. [Troubleshooting](#troubleshooting)
-
 
 ## Обзор модели передвижения
 
